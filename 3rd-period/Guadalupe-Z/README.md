@@ -2,52 +2,58 @@
 
 ## 👋 About Me
 
-Hi! My name is Guadalupe Z., and I’m a student developer who is passionate about learning, achieving goals, and making my family proud. I dream of becoming a doctor one day and attending Stanford or UC Davis. I enjoy using creativity and problem-solving skills through coding, and I’ve developed strong leadership as a two-year soccer team captain. I approach everything I do with dedication and heart — both on the field and in the classroom.
+Hi! My name is Guadalupe Z., and I’m a hardworking and goal-driven student developer. I’m passionate about doing well in school, reaching for my dreams, and making my immigrant parents proud. I plan to become a doctor one day and hope to attend either Stanford or UC Davis. I enjoy playing soccer — I’ve proudly served as team captain for two years — and I use sports and coding as ways to express myself, lead others, and keep pushing forward. 💪⚽
 
-## 📚 About This Project
+## 💻 About This Project
 
-This project is the final portfolio for my web development class. Throughout this year, I’ve learned how to code using HTML, CSS, and JavaScript. I’ve built multiple projects that helped me grow as a developer, and I’m proud to showcase what I’ve created. This portfolio is the result of hard work, creativity, and new technical skills that I will continue to build upon in the future.
+This portfolio project is the final assignment for my web development class. Over the course of this year, I learned how to build websites using HTML, CSS, and JavaScript. I learned how to plan, code, design, and bring my creative ideas to life using web technologies. This project showcases everything I’ve worked on and learned, and it represents how much I’ve grown as a student and future developer.
 
 ## 🌐 Portfolio Overview
 
-My portfolio site includes:
-- A **Home Page** with a welcome message and personal images
-- An **About Me** page that shares my story, goals, and reflections
-- A **Projects** section with previews and links to my favorite coding projects
+My portfolio website includes the following sections:
 
-## 💻 Featured Projects
+- **Home** – A welcoming page that introduces who I am  
+- **About Me** – A deeper look into my story, goals, and reflections on leadership and coding  
+- **Projects** – A collection of the coding projects I built during this class  
 
-Here are the projects included in my portfolio:
+## 🚀 Featured Projects
 
-1. **Rock Paper Scissors Game**  
-   A fun, interactive JavaScript game where players compete against the computer.  
-   [View Project](https://codepen.io/lupezapata08/pen/RNPNmxO)
+Here are the projects you’ll find on my portfolio site:
 
-2. **Fruit Memory Game**  
-   A matching card game using JavaScript and fruit-themed graphics. Great for practicing memory skills!  
-   [View Project](https://codepen.io/lupezapata08/pen/xbGbNya)
+### 1. Rock Paper Scissors Game  
+A fun interactive game where the user plays against the computer. Built using JavaScript to determine the outcome.  
+🔗 [Play Now](https://codepen.io/lupezapata08/pen/RNPNmxO)
 
-3. **Motivational Quotes Generator**  
-   A simple project that displays inspiring quotes at random, built using JavaScript.  
-   [View Project](https://codepen.io/lupezapata930/pen/zxYLJWN)
+### 2. Fruit Memory Game  
+A matching card game that uses images of fruit. It tests memory skills and showcases JavaScript logic and CSS styling.  
+🔗 [Try It Out](https://codepen.io/lupezapata08/pen/xbGbNya)
 
-4. **Burger Delish Menu**  
-   A creative food menu website showing skills in layout and visual design.  
-   [View Project](https://codepen.io/lupezapata930/pen/YPPXqGZ)
+### 3. Motivational Quotes Generator  
+This project displays a random motivational quote every time you click a button. Simple and inspiring!  
+🔗 [See It Here](https://codepen.io/lupezapata930/pen/zxYLJWN)
 
-5. **Weather Dashboard**  
-   A weather tracking app that lets users see forecasts in real time.  
-   [View Project](https://codepen.io/lupezapata08/pen/YOUR_PROJECT_5)
+### 4. Burger Delish Menu  
+A food-themed website featuring a stylish burger menu layout using HTML and CSS.  
+🔗 [Check It Out](https://codepen.io/lupezapata930/pen/YPPXqGZ)
 
-6. **To-Do List App**  
-   A productivity tool for managing daily tasks and goals.  
-   [View Project](https://codepen.io/lupezapata08/pen/YOUR_PROJECT_6)
+### 5. Password Generator  
+This project generates random, secure passwords based on user input. Great for practicing input validation and logic.  
+🔗 [Generate Passwords](https://codepen.io/lupezapata08/pen/GgJJXmO)
 
-## 🔗 Links
-
-- **GitHub Repository:** [https://github.com/Lupelovesbufffalowings/Final-Project-3](https://github.com/Lupelovesbufffalowings/Final-Project-3)
-- **Live Site:** [https://lupelovesbufffalowings.github.io/Final-Project-3/](https://lupelovesbufffalowings.github.io/Final-Project-3/)
+### 6. Black Jack  
+A card game simulation where users can play against the computer in a simple version of Blackjack.  
+🔗 [Play Blackjack](https://codepen.io/lupezapata08/pen/GgRrOMX)
 
 ---
 
-Thank you for visiting my portfolio! 😊 I'm excited to keep learning and building more amazing things with code.
+## 📂 Repository & Live Site
+
+- **GitHub Repository:**  
+  [https://github.com/Lupelovesbufffalowings/Final-Project-3](https://github.com/Lupelovesbufffalowings/Final-Project-3)
+
+- **Live Website on GitHub Pages:**  
+  [https://lupelovesbufffalowings.github.io/Final-Project-3/](https://lupelovesbufffalowings.github.io/Final-Project-3/)
+
+---
+
+Thank you for visiting my portfolio. I'm proud of my growth this year, and I’m excited to keep learning more about coding and development! 🎓💻
